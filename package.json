@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kptkid/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kptkid/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kptkid/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "espress": "0.0.0",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
