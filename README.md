@@ -1,7 +1,7 @@
 # FriendFinder
 
 ## Live Link
-- danielkang.org:3000
+- friendfinder.danielkang.org
 
 ## Requirements
 ####
