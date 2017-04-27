@@ -1,7 +1,7 @@
 # FriendFinder
 
 ## Live Link
-- friendfinder.danielkang.org
+- http://friendfinder.danielkang.org
 
 ## Requirements
 ####
